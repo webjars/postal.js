@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>postal.js</artifactId>
-    <version>0.10.3-SNAPSHOT</version>
+    <version>0.10.3</version>
     <name>Postal.js</name>
     <description>WebJar for Postal.js</description>
     <url>http://webjars.org</url>
@@ -58,7 +58,7 @@
         <url>http://github.com/webjars/postal.js</url>
         <connection>scm:git:https://github.com/webjars/postal.js.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/postal.js.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>postal.js-0.10.3</tag>
     </scm>
     
     <dependencies>
